@@ -1,0 +1,20 @@
+.transparent-red {
+    background-color: #ff000050;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.number-2 {
+    color: blue;
+    font-size: 36px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.number-3-text {
+    font-size: 24px;
+}
+
+.number-4 {
+    background: #00ff0050;
+    font-size: 24px;
+    font-weight: bold;
+}
